@@ -119,6 +119,3 @@ Azure Virtual Network (10.0.0.0/16)
 ## Resume Project Summary
 
 Designed and deployed a segmented Azure Virtual Network with multiple subnets, deployed Windows Server virtual machines, configured network security controls, and documented cloud infrastructure architecture using GitHub.
-
-
-# Screenshots
